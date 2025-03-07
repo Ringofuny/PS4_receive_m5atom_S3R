@@ -6,3 +6,5 @@ m5atom S3Rとm5atom liteを使ってPS4コントローラーからの受信デ�
 ### 結果
 ![動作の様子](pic/IMG_2385.jpg)
 
+# やべ！自分のBluetoothMACアドレスみたいなの消し忘れた！！
+
